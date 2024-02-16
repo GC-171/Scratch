@@ -1,0 +1,2 @@
+document.querySelector("#app")._reactRootContainer._internalRoot.current.child.stateNode.store.getState().scratchGui.
+    vm.runtime.targets[0].lookupVariableByNameAndType("my variable", "").value
